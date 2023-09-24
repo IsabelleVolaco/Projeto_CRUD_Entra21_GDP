@@ -1,0 +1,16 @@
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.exe
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.deps.json
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.runtimeconfig.json
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.runtimeconfig.dev.json
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.dll
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\ref\Gerenciador de Projetos Isabelle.dll
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\bin\Debug\net5.0\Gerenciador de Projetos Isabelle.pdb
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.dll
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\ref\Gerenciador de Projetos Isabelle.dll
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.pdb
+C:\Users\joaoh\source\repos\Gerenciador de Projetos Isabelle\Gerenciador de Projetos Isabelle\obj\Debug\net5.0\Gerenciador de Projetos Isabelle.genruntimeconfig.cache
